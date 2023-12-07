@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include juelbdh *.css
+recursive-include juelbdh *.csv
+recursive-include juelbdh *.html
+recursive-include juelbdh *.ico
+recursive-include juelbdh *.js
+recursive-include juelbdh *.json
+recursive-include juelbdh *.md
+recursive-include juelbdh *.png
+recursive-include juelbdh *.py
+recursive-include juelbdh *.svg
+recursive-include juelbdh *.txt
+recursive-exclude juelbdh *.pyc
