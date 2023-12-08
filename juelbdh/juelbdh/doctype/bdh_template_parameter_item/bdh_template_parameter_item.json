@@ -1,0 +1,32 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-12-07 19:23:44.485263",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "bdh_parameter"
+ ],
+ "fields": [
+  {
+   "fieldname": "bdh_parameter",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "BDH Parameter",
+   "options": "BDH Parameter"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-12-07 20:30:39.393788",
+ "modified_by": "Administrator",
+ "module": "Juelbdh",
+ "name": "BDH Template Parameter Item",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
